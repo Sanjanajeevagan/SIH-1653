@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:10:03:2025
+## Register Number:212224230240
+## Name:Sanjana J
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -11,9 +11,35 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 ## Idea
+1.AI-Powered Applicant Screening:
+The software uses machine learning algorithms to analyze applicant resumes and match them with job requirements.
+Automated ranking system shortlists the most suitable candidates based on skills, experience, and qualifications.
+
+2.Real-Time Job Simulation Assessments
+
+Candidates undergo interactive simulations tailored to their job roles, testing their problem-solving abilities and practical skills.
+Situational judgment tests, coding challenges, or industry-specific tasks help recruiters assess real-world competency.
+
+3.Virtual Interview Assistant
+
+AI-driven chatbots and video analysis tools evaluate speech patterns, body language, and confidence during virtual interviews.
+Automated interview scheduling reduces recruiter workload and enhances efficiency.
+
+4.Adaptive Skill Assessment & Feedback
+
+The system personalizes skill evaluations based on the job role, offering instant performance feedback to applicants.
+Gamified tests and AI-generated reports highlight strengths and areas for improvement, ensuring a more engaging recruitment process.
+
+5.Data-Driven Decision Making
+
+The platform provides recruiters with comprehensive analytics dashboards, visualizing candidate performance, hiring trends, and predictive success rates.
+AI-powered insights help reduce hiring biases and promote fair candidate selection.
 
 
-## Proposed Solution / Architecture Diagram
+
+## Proposed Solution / Architecture Diagram:
+![image](https://github.com/user-attachments/assets/ab35be36-bce3-4ddc-b5e0-d70b3461638c)
+
 
 
 ## Use Cases
