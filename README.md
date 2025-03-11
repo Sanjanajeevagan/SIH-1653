@@ -48,10 +48,21 @@ Secure cloud storage ensures data privacy and compliance with hiring regulations
 
 
 ## Use Cases
+![Screenshot 2025-03-11 075053](https://github.com/user-attachments/assets/1600feeb-0b7a-41e9-94c2-2d5ee32f1a89)
+
 
 
 ## Technology Stack
+React.js – For building a dynamic and interactive user interface.
+Node.js – Handles server-side logic and API requests efficiently.
+Express.js – Lightweight framework for creating RESTful APIs.
+Firebase Authenticator – Manages secure authentication for users and recruiters
+Speech & Video Analysis API – AI-powered tool for analyzing virtual interviews.
+Postman / Insomnia – API testing and debugging tools.
 
 
 ## Dependencies
+AI Resume Screening & Matching – 10 Days
+Simulation & Assessment Module – 10 Days
+Budget – ₹50,000
 
